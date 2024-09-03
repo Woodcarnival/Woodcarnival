@@ -6,3 +6,9 @@ Console.WriteLine("the world is waitoing for the lord of the lords"); Console.Wr
 Console.WriteLine("the world is waitoing for the lord of the lords");
 Console.WriteLine("the world is waitoing for the lord of the lords");
 Console.WriteLine("the world is waitoing for the lord of the lords");
+// NOW THE EXPERINMENT // use of  string and  minginf=g statement as well as expression(mainly '+' expression)
+string name;
+Console.WriteLine("what may be the lords name");
+name=Console.ReadLine();
+
+Console.WriteLine("hi  your highnes " + name);
