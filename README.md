@@ -12,3 +12,12 @@ Console.WriteLine("what may be the lords name");
 name=Console.ReadLine();
 
 Console.WriteLine("hi  your highnes " + name);
+// now the code is about asking who has wants the bread and asking for there name and giving tat person the bread;
+\  \  
+//Bread is ready. Who is the bread for? RBNoted: RB got bread. 
+string NAME;
+Console.WriteLine("The bread is ready");
+Console.WriteLine("who shall this bread given to?");
+NAME =Console.ReadLine();
+
+Console.WriteLine("This shall be granted to"+NAME);
